@@ -14,5 +14,10 @@ BackEnd for:
 
  Me: The applied voltage controls its resistance, so it can sometimes be a conductor and sometimes an insulator.
 
-> How do experiment physicists drive particle beans in LHC
+> How do experiment physicists drive particle beams in LHC
+
   me: F = qv × B.
+
+> What is the mechanical keyboard layout the way it is
+
+  me: It was optimized for typing English
