@@ -5,3 +5,6 @@ anyone done/try yet?
 
 Top Moon Questions - NASA Science
 27.3 days
+
+Moon being:
+their "year" is 27.3 days
