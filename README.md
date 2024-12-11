@@ -21,3 +21,7 @@ BackEnd for:
 > What is the mechanical keyboard layout the way it is now?
 
   me: It was optimized for typing English vocabulary.
+
+> American: America is disgraceful!
+
+  me: The world is a lot more greateful than you should think.
