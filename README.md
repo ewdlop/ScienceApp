@@ -8,7 +8,7 @@ BackEnd for:
 
 > Why does Moore's law start to fail below 1nm?
 
-  me: The probability of Quantum Tunneling increases (quantum effects start to occur < 1nm). (Electrical)Current starts to leak out of logic "gate".
+  me: The probability of Quantum Tunneling increases (quantum effects start to occur < 1nm). (Electrical)Current starts to leak out of the logic "gate", but it gets better.
 
 > What is a semiconductor(semiinsulator)?
 
