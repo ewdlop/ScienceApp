@@ -8,3 +8,8 @@ Top Moon Questions - NASA Science
 
 Moon being:
 their "year" is 27.3 days
+
+
+//two body problem
+
+earth and sun revolve around each other
