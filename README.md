@@ -18,6 +18,6 @@ BackEnd for:
 
   me: F = qv × B.
 
-> What is the mechanical keyboard layout the way it is
+> What is the mechanical keyboard layout the way it is now?
 
-  me: It was optimized for typing English
+  me: It was optimized for typing English vocabulary.
