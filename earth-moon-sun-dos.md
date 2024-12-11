@@ -10,6 +10,10 @@ Moon being:
 their "year" is 27.3 days
 
 
-//two body problem
+## two body problem
 
-earth and sun revolve around each other
+earth and sun revolve around each other(around the center of mass)
+
+### three body problem
+
+earth, moon and sun revolve around each other(around the center of mass)
